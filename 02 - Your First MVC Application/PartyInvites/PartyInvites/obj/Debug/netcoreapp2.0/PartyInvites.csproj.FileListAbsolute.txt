@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\Admin\source\repos\ASP.NET-CORE-MVC-2\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
