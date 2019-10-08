@@ -1,14 +1,8 @@
-﻿################################################################################
+################################################################################
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
 /04 - Essential Language Features/.vs
-/04 - Essential Language Features/LanguageFeatures/bin
-/04 - Essential Language Features/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.dll
-/04 - Essential Language Features/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.csproj.FileListAbsolute.txt
-/04 - Essential Language Features/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.csprojAssemblyReference.cache
-/04 - Essential Language Features/LanguageFeatures/obj/Debug/netcoreapp2.0/LanguageFeatures.pdb
-
 #Ignore thumbnails created by Windows
 Thumbs.db
 #Ignore files built by Visual Studio
